@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author mohammedkhan
+ *
+ */
+module rubyJavaTestProject {
+}
